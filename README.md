@@ -36,10 +36,29 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahab-x78/Wahab-x78/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahab-x78/Wahab-x78/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wahab-x78/Wahab-x78/output/pacman-contribution-graph.svg">
-</picture>
+<h3 align="center">👾 Pac-Man is chasing bugs...</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFDE00&center=true&vCenter=true&width=435&lines=while+(life)++;%7B+eat();+sleep();+code();+repeat();+%7D" alt="Typing SVG" />
+</p>
+
+<p align="center" style="font-size:20px">
+  <b>🟡</b>  
+  <b>⬛</b><b>⬛</b><b>⬛</b><b>⬛</b><b>👻</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TLrmN7AqTzHnO/giphy.gif" width="200" alt="Pacman gif" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=yellow" alt="Profile views" />
+  </a>
+</p>
+
+---
+
+
 
 ###
